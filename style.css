@@ -10,6 +10,7 @@ body{ /*
 	background: rgb(170,204,191);
 	background: radial-gradient(circle, rgba(170,204,191,1) 0%, rgba(51,201,192,1) 100%); */
 	background-image: url(resources/sand.jpg);
+	background-size: 100%;
 	image-rendering: optimizeSpeed;
 	background-attachment: fixed;
 	color:#434c5e;
